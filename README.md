@@ -1,4 +1,4 @@
-# Go语言 面试八股
+# RPC 面试八股
 ![](https://github.com/CodingCookbook/RPC/blob/main/File/gzh.png)
 
 ## 目录
